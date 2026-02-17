@@ -1,0 +1,7 @@
+{
+  "name": "Vantage Point Intelligence Engine",
+  "description": "An interactive topographical mapping interface for school strategic planning, integrating internal notes with real-time Google Maps enrichment.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
